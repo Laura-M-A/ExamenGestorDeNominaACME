@@ -1,0 +1,62 @@
+{
+    "001": {
+        "nombre": "asdsa",
+        "apellido": "asdasd",
+        "cargo": "asdas",
+        "salario": 544,
+        "registroInasistencia": {
+            "falta": 5,
+            "fecha": "2024-10-23 09:43:40.224426"
+        },
+        "registroBonos": [
+            [
+                5,
+                "5",
+                "2024-10-23 09:43:51.816404"
+            ],
+            [
+                5,
+                "5",
+                "2024-10-23 09:44:15.408446"
+            ]
+        ]
+    },
+    "002": {
+        "nombre": "SAsA",
+        "apellido": "SAsAS",
+        "cargo": "AS",
+        "salario": 50,
+        "registroInasistencia": {
+            "falta": 45,
+            "fecha": "2024-10-23 08:59:51.273170"
+        },
+        "registroBonos": []
+    },
+    "003": {
+        "nombre": "a",
+        "apellido": "mendez",
+        "cargo": "dasdga",
+        "salario": 600000000,
+        "registroInasistencia": {
+            "falta": 42,
+            "fecha": "2024-10-23 09:00:03.456715"
+        },
+        "registroBonos": []
+    },
+    "005": {
+        "nombre": "asd",
+        "apellido": "asda",
+        "cargo": "asd",
+        "salario": 55,
+        "registroInasistencia": {},
+        "registroBonos": []
+    },
+    "004": {
+        "nombre": "asd",
+        "apellido": "asdas",
+        "cargo": "dasd",
+        "salario": 5000,
+        "registroInasistencia": {},
+        "registroBonos": []
+    }
+}
